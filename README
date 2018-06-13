@@ -1,0 +1,9 @@
+史上最简单的 SpringCloud 教程 | 终章
+原文地址：https://blog.csdn.net/forezp/article/details/70148833/
+
+项目依赖spring-boot 版本2.0.2.RELEASE
+spring-cloud 版本Finchley.RC2
+
+zipkin版本除外
+
+项目结构不标准，只做学习
